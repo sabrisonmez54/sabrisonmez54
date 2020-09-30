@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community.I am a computer science student at Macaulay Honors College(CUNY) uploading my projects and progress here as I continue learning how to code.
+
 
 <!--
 **sabrisonmez54/sabrisonmez54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
