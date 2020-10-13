@@ -6,7 +6,8 @@ I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and cont
 
 ### Find me around the web 🌎
 - Checkout my [**Online Portfolio**](https://sabriumut.com/)
-- Checkout my [**Linked In Profile**](https://www.linkedin.com/in/sabrisonmez/)
+- Checkout my [**LinkedIn Profile**](https://www.linkedin.com/in/sabrisonmez/)
+- Checkout my [**npm Profile**](https://www.npmjs.com/~sabrisonmez)
 
 <!--
 **sabrisonmez54/sabrisonmez54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
