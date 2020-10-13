@@ -1,6 +1,6 @@
 
 <img src="https://github.com/sabrisonmez54/sabrisonmez54/blob/master/avatar.png" alt="avatar"
-	title="my cartoon avatar" width="450" height="450" />
+	title="my cartoon avatar" width="250" height="200" />
 ### Hi there 👋
 I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community.I am a computer science student at Macaulay Honors College(CUNY) uploading my projects and progress here as I continue learning how to code.
 
