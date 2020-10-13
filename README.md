@@ -1,4 +1,6 @@
-![avatar](https://github.com/sabrisonmez54/sabrisonmez54/blob/master/avatar.png)
+
+<img src="https://github.com/sabrisonmez54/sabrisonmez54/blob/master/avatar.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 ### Hi there 👋
 I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community.I am a computer science student at Macaulay Honors College(CUNY) uploading my projects and progress here as I continue learning how to code.
 
