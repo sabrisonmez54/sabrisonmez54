@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community. I am a computer science student at Macaulay Honors College(CUNY) uploading my projects and progress here as I continue learning how to code.
+I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community.I am Currentyly a iOS developer as well as an adjunct lecturer at CUNY.
 
 ### Find me around the web 🌎
 - Checkout my [**Resume**](https://represent.io/sabrisonmez)
