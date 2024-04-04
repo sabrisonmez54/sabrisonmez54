@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community.I am Currentyly a iOS developer as well as an adjunct lecturer at CUNY.
+I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community. I am currently an iOS developer as well as an adjunct lecturer.
 
 ### Find me around the web 🌎
 - Checkout my [**Resume**](https://represent.io/sabrisonmez)
