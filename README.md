@@ -3,7 +3,6 @@
 I'm Sabri! Welcome to my Github :octocat: . I'm passionate about making and contributing to open-source code, creating technology to help people, and building community. I am currently an iOS developer as well as an adjunct lecturer.
 
 ### Find me around the web 🌎
-- Checkout my [**Resume**](https://represent.io/sabrisonmez)
 - Checkout my [**Online Portfolio**](https://sabriumut.com/)
 - Checkout my [**LinkedIn Profile**](https://www.linkedin.com/in/sabrisonmez/)
 - Checkout my [**npm Profile**](https://www.npmjs.com/~sabrisonmez)
